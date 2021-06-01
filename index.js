@@ -3,6 +3,10 @@
 // check solving problem (json file)
 
 
+// cli or gui ??? 
 
+
+
+import "./importProblem"
 
 
